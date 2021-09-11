@@ -1,0 +1,17 @@
+Request you to open "readme.txt" first (in case you directly opened this file before opening readme.txt) and follow accordingly.
+
+
+
+Step 1: Open your terminal in this folder.
+            In Windows, one of the way is press "shift + Rightclick(Mouse)", then click on "open PowerShell window here".
+            For other OS, request you to google it in case you dont't know.
+
+Step 2: Now input "pip install -r requirements.txt", (please do not include double quotes, copy all the text inside of double quotes).
+        Wait till it gets completed. It's just a one-time process.
+
+Step 3: When step 2 is completed. Input "pipwin install PyAudio==0.2.11" in the terminal. Wait till it gets completed.
+
+
+
+
+Now you are almost done with the modules installation. Keep following "readme.txt" for any further process.
